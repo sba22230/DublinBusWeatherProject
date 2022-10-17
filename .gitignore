@@ -3,3 +3,4 @@
 *.gz
 Data/Weather/StationDetails.csv
 *.zip
+.vscode/launch.json
