@@ -1,0 +1,5 @@
+
+*.ini
+*.gz
+Data/Weather/StationDetails.csv
+*.zip
