@@ -4,3 +4,4 @@
 Data/Weather/StationDetails.csv
 *.zip
 .vscode/launch.json
+Data/Bus/CleanedBusData.parquet
