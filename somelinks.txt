@@ -3,3 +3,10 @@ https://data.smartdublin.ie/dataset?category=Transport%20and%20Infrastructure
 https://data.gov.ie/organization/dublin-city-council?tags=Transport+and+Infrastructure
 
 https://www.met.ie/climate/available-data/historical-data
+
+
+
+https://cli.fusio.net/cli/climate_data/webdata/hly532.zip
+
+http://cli.fusio.net/cli/climate_data/webdata/hly10223.zip
+https://cli.fusio.net/cli/climate_data/webdata/dly6623.zip
