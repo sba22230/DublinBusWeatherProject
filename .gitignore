@@ -4,3 +4,11 @@ Data/Weather/StationDetails.csv
 *.zip
 .vscode/launch.json
 *.parquet
+Data/MetEirrean/Data_Licence.pdf
+Data/MetEirrean/Data_Licence.txt
+Data/MetEirrean/hly175.csv
+Data/MetEirrean/hly532.csv
+Data/MetEirrean/hly3723.csv
+Data/MetEirrean/KeyHourly.txt
+dublinbusmap.html
+dublinbusmap.png
