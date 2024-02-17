@@ -23,3 +23,5 @@ Report/Data/hly175.csv
 Report/Data/KeyHourly.txt
 Report/MSC_DA_CA1_report.docx
 Report/Notebook/CA 1 - Project Code.ipynb
+.vs/*
+.vs/VSWorkspaceState.json
