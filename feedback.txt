@@ -1,0 +1,19 @@
+Machine Learning Feedback  
+
+Mark 51.3
+
+3134 words are written including title, references and all sections. The report is based on different sections of integrated CA1. In ML section, DT, RFC, LR, RR and OLS models are applied on the dataset. GridsearchCV is used to find optimal hyperparameters. No figure number and captions provided along with images. A more depth in the explanation of the results required. Overall the rationales are justified at the decent level.
+
+
+Statistics Data Science 
+
+Mark 53
+
+Table of content and figures is missing. Statistical visualisations are ok. Descriptive statistics has been used for different variables and there are explanations up to certain extent. Poisson distribution is well calculated but there is not reasoning behind the questions stated (why these questions would contribute to the research? Is the result logical if we relate it to the data?). Normal distribution was used to perform ML models
+
+
+Data Preparation And Visualisation
+
+Mark 45
+
+Much more Depth Required in rationalizing the reasons for using the techniques that you used and what you gained from using them. Part 1 EDA applied and some explaination Part 2 Basic rationalization or Justification Part 3 Good use of several different types of graph Part 4 No discussion as to design or implementation Its a pity you didnt discuss part 4 as this would likely have increased your grade significantly
